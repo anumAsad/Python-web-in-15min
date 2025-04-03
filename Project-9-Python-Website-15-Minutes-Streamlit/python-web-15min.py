@@ -9,7 +9,7 @@ def main():
     st.subheader("This website was built with Streamlit in just 15 minutes!")
 
     # Display an image (Streamlit's logo in this case)
-    st.image("https://www.streamlit.io/images/brand/streamlit-mark-color.png", 
+    st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebandcrafts.com%2Fblog%2Ffeatures-of-python&psig=AOvVaw0OCN4D7zC5bbh0CBdFEhf_&ust=1743770109100000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi73Zjwu4wDFQAAAAAdAAAAABAE", 
              caption="Streamlit Logo", 
              use_container_width=True)  # Updated parameter
 
