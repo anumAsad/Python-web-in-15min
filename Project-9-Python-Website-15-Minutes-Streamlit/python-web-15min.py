@@ -29,7 +29,7 @@ def main():
 
     # Contact section
     st.header("📬 Contact Me")
-    st.write("Feel free to reach out to me at: [example@example.com](mailto:faizaanum210@gmail.com)")
+    st.write("Feel free to reach out to me at: [faizaanum210@gmail.com](mailto:faizaanum210@gmail.com)")
 
 if __name__ == "__main__":
     main()
